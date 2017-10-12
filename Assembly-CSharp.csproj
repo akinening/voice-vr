@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Chara_Pointer.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\GVRDemo\GVRDemoManager.cs" />
@@ -173,6 +174,7 @@
      <Compile Include="Assets\LowPolyUnityChan\Scripts\SpringBone.cs" />
      <Compile Include="Assets\LowPolyUnityChan\Scripts\SpringCollider.cs" />
      <Compile Include="Assets\LowPolyUnityChan\Scripts\SpringManager.cs" />
+     <Compile Include="Assets\UnityChanDemo1.cs" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
      <None Include="Assets\LowPolyUnityChan\README_LowPolyUnityChan.txt" />
