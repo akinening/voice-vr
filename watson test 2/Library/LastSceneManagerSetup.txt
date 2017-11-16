@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/MainScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Sci-Fi Styled Modular Pack/Example scenes/outpost on desert.unity
+  isLoaded: 1
+  isActive: 0
